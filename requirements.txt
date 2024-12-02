@@ -1,0 +1,10 @@
+streamlit
+python-dotenv==0.21.0
+librosa
+openai==1.55.3
+httpx==0.27.2
+pdfplumber
+torch
+transformers
+diffusers
+Pillow
